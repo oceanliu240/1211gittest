@@ -2,6 +2,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.lby.git</groupId>
   <artifactId>git-test</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.111-SNAPSHOT</version>
   <packaging>war</packaging>
 </project>
