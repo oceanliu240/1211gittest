@@ -10,7 +10,7 @@ public final class AttrNameConstant {
     
     public static final String SESSION_LOGIC_USER = "LOGIC_USER";
     
-    public static final String MESSAGE = "MESSAGE";
+    public static final String MESSAGE = "MESSAGE哎呀哎呀";
     
 
 }
